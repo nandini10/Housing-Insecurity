@@ -1,0 +1,5 @@
+city:south_bend
+state_abbrv:in
+state:indiana
+state_fips:18
+counties:['141']

@@ -1,0 +1,5 @@
+city:dallas
+state_abbrv:tx
+state:texas
+state_fips:48
+counties:['113']

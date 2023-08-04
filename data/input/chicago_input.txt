@@ -1,0 +1,5 @@
+city:chicago
+state_abbrv:il
+state:illinois
+state_fips:17
+counties:['031']

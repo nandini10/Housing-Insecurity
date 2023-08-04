@@ -1,0 +1,5 @@
+city:wilmington
+state_abbrv:de
+state:delaware
+state_fips:10
+counties:['003']

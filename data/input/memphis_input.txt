@@ -1,0 +1,5 @@
+city:memphis
+state_abbrv:tn
+state:tennessee
+state_fips:47
+counties:['157']

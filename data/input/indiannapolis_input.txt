@@ -1,0 +1,5 @@
+city:indiannapolis
+state_abbrv:in
+state:indiana
+state_fips:18
+counties:['097']

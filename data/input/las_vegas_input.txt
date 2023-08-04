@@ -1,0 +1,5 @@
+city:las_vegas
+state_abbrv:nv
+state:nevada
+state_fips:32
+counties:['003']

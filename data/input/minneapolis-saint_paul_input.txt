@@ -1,0 +1,5 @@
+city:minneapolis
+state_abbrv:mn
+state:minnesota
+state_fips:27
+counties:['003', '019', '037', '053', '123', '139', '163']

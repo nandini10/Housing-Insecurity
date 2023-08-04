@@ -1,0 +1,5 @@
+city:cincinnati
+state_abbrv:oh
+state:ohio
+state_fips:39
+counties:['061']

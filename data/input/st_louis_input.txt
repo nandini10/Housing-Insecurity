@@ -1,0 +1,5 @@
+city:st_louis
+state_abbrv:mo
+state:missouri
+state_fips:29
+counties:['510']

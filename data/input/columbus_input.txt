@@ -1,0 +1,5 @@
+city:columbus
+state_abbrv:oh
+state:ohio
+state_fips:39
+counties:['049', '045', '041']

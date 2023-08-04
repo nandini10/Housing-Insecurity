@@ -1,0 +1,5 @@
+city:kansas_city
+state_abbrv:mo
+state:missouri
+state_fips:29
+counties:['095', '047', '037', '165']

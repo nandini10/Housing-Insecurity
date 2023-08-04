@@ -1,0 +1,5 @@
+city:detroit
+state_abbrv:mi
+state:michigan
+state_fips:26
+counties:['163', '125', '099']

@@ -1,0 +1,5 @@
+city:milwaukee
+state_abbrv:wi
+state:wisconsin
+state_fips:55
+counties:['079']

@@ -1,0 +1,5 @@
+city:fort_worth
+state_abbrv:tx
+state:texas
+state_fips:48
+counties:['439']

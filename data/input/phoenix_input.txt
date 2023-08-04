@@ -1,0 +1,5 @@
+city:phoenix
+state_abbrv:az
+state:arizona
+state_fips:04
+counties:['013']

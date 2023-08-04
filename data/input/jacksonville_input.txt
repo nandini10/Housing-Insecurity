@@ -1,0 +1,5 @@
+city:jacksonville
+state_abbrv:fl
+state:florida
+state_fips:12
+counties:['031']

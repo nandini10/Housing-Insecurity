@@ -1,0 +1,5 @@
+city:san_francisco
+state_abbrv:ca
+state:california
+state_fips:06
+counties:['075']

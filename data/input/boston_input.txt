@@ -1,0 +1,5 @@
+city:boston
+state_abbrv:ma
+state:massachusetts
+state_fips:25
+counties:['025']

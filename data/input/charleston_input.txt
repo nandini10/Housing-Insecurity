@@ -1,0 +1,5 @@
+city:charleston
+state_abbrv:sc
+state:south_carolina
+state_fips:45
+counties:['019']

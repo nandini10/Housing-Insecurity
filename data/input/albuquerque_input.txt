@@ -1,0 +1,5 @@
+city:albuquerque
+state_abbrv:nm
+state:new_mexico
+state_fips:35
+counties:['001']

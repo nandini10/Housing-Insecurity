@@ -1,0 +1,5 @@
+city:new_york_city
+state_abbrv:ny
+state:new_york
+state_fips:36
+counties:['005', '047', '061', '081', '085']
